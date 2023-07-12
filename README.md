@@ -11,6 +11,7 @@ This is a list of programming languages, tools, and libraries I use in my work a
 | Tools |![iverilog](https://img.shields.io/badge/-iverilog-green.svg) ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff)  Git |
 | Open Source Tools | Yosys, GTKWave |
 | FPGA Boards and microcontrollers | Pynq Z2, Xilinx ZCU 104, STM32F4DISCOVERY, Arduino MEGA and UNO |
+| ASIC Design Tool | Cadence(Genus), Cadence(Innovus) |
 | Deep Learning Libraries | TensorFlow, NumPy, Pandas, Matplotlib |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiiishekyadav&layout=compact&langs_count=4)]()
